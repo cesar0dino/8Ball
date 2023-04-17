@@ -70,7 +70,7 @@ console.log(person)
 let person2 = {
     person2Name: 'Jesus',
     Hair: 'Straight',
-    age: 15,
+    age: 43,
     height: 'unknown',
     barks: false
 }
@@ -80,7 +80,7 @@ console.log(person2)
 let person3 = {
     person3Name: 'Erik',
     Hair: 'Straight',
-    age: 15,
+    age: 23,
     height: 'unknown',
     barks: false
 }
@@ -90,7 +90,7 @@ console.log(person3)
 let person4 = {
     person4Name: 'Darwin',
     Hair: 'Straight',
-    age: 15,
+    age: 53,
     height: 'unknown',
     barks: false
 }
