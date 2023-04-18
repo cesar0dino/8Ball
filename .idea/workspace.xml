@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a33e1eb-2009-4ff0-b246-c69d84ee75d7" name="Default Changelist" comment="8ball">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="0a33e1eb-2009-4ff0-b246-c69d84ee75d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Codecreator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Madlibs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -43,6 +43,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Codecreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -59,8 +68,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/8ball.js" />
-        <option value="$PROJECT_DIR$/Object.js" />
         <option value="$PROJECT_DIR$/Madlibs.js" />
+        <option value="$PROJECT_DIR$/Object.js" />
+        <option value="$PROJECT_DIR$/codecreator.js" />
+        <option value="$PROJECT_DIR$/Codecreator.js" />
       </list>
     </option>
   </component>
@@ -130,6 +141,8 @@
       <workItem from="1681749829688" duration="1382000" />
       <workItem from="1681751240654" duration="28000" />
       <workItem from="1681751317977" duration="250000" />
+      <workItem from="1681751597735" duration="793000" />
+      <workItem from="1681835901493" duration="2778000" />
     </task>
     <task id="LOCAL-00001" summary="8ball">
       <created>1681406949521</created>
@@ -145,11 +158,18 @@
       <option name="project" value="LOCAL" />
       <updated>1681751362327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="object">
+      <created>1681751789462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681751789462</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5165000" />
+    <option name="totallyTimeSpent" value="8736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -183,6 +203,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="object" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Madlibs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8ball.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -197,10 +224,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Madlibs.js">
+    <entry file="file://$PROJECT_DIR$/Codecreator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="469">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
         </state>
       </provider>
     </entry>
