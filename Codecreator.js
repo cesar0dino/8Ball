@@ -3,7 +3,7 @@ const readLine = require('readline-sync');
 let diceRolled = [];
 let character1={
 //empty to start
-}
+};
 
 createChar(character1, diceRolled);
 
@@ -47,11 +47,16 @@ function createChar(character, list){
     character.wisdom = rollStat(diceRolled);
     console.log("Rolling CHA");
     character.charisma = rollStat(diceRolled);
+    console.log("Rolling SPE");
+    character.speed = rollStat(diceRolled);
+    console.log("Rolling AGE");
+    character.age = rollStat(diceRolled);
+    console.log("Rolling MOB");
+    character.mobility = rollStat(diceRolled);
     displayChar(character);
 }
 
 function displayChar(char){
-    console.log(`-----------------------`)
     console.log(`name: ${char.name}`);
     console.log(`STR: ${char.strength}`);
     console.log(`DEX: ${char.dexerity}`);
@@ -59,5 +64,7 @@ function displayChar(char){
     console.log(`INT: ${char.intelligence}`);
     console.log(`WIS: ${char.wisdom}`);
     console.log(`CHA: ${char.charisma}`);
-    console.log(`-----------------------`)
+    console.log(`SPE: ${char.speed}`);
+    console.log(`AGE: ${char.age}`);
+    console.log(`MOB: ${char.mobility}`);
 }
