@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a33e1eb-2009-4ff0-b246-c69d84ee75d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codecreator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codecreator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/8ball.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/8ball.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Codecreator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -67,11 +67,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/8ball.js" />
         <option value="$PROJECT_DIR$/Madlibs.js" />
         <option value="$PROJECT_DIR$/Object.js" />
         <option value="$PROJECT_DIR$/codecreator.js" />
         <option value="$PROJECT_DIR$/Codecreator.js" />
+        <option value="$PROJECT_DIR$/node_modules/Combomenu.js" />
+        <option value="$PROJECT_DIR$/8ball.js" />
       </list>
     </option>
   </component>
@@ -87,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,11 +96,15 @@
               <item name="Object" type="b2602c69:ProjectViewProjectNode" />
               <item name="Magic8ball" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Object" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magic8ball" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,7 +149,8 @@
       <workItem from="1681751317977" duration="250000" />
       <workItem from="1681751597735" duration="793000" />
       <workItem from="1681835901493" duration="2880000" />
-      <workItem from="1682008646204" duration="2544000" />
+      <workItem from="1682008646204" duration="2893000" />
+      <workItem from="1682095106877" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="8ball">
       <created>1681406949521</created>
@@ -173,14 +180,22 @@
       <option name="project" value="LOCAL" />
       <updated>1681838711491</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="codecreator">
+      <created>1682011340764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682011340764</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11382000" />
+    <option name="totallyTimeSpent" value="12329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8ball" />
     <MESSAGE value="object" />
-    <option name="LAST_COMMIT_MESSAGE" value="object" />
+    <MESSAGE value="codecreator" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecreator" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Madlibs.js">
@@ -224,17 +240,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8ball.js">
+    <entry file="file://$PROJECT_DIR$/Codecreator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Codecreator.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/Combomenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8ball.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
