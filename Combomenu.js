@@ -26,15 +26,16 @@ if (answer3 == "no"){
     console.log("No Fries")
 }
 if(answer3 == "yes"){
-    answer3 = readLine.question("What size?(Small: $3.25, Medium: $5, Large: $6.50): ");
+    answer3 = readLine.question("What size?(small: $3.25, medium: $5, large: $6.50): ");
     console.log(`${answer3} fries.`)
 }
 
-let number4 = Number(readLine.question("How many packet of ketch up do you want or you dont want any?: "));
+let number4 = Number(readLine.question("How many packet of ketchup do you want or you dont want any?: "));
 if (number4 == "no"){
     console.log(`${number4} no ketchup packets for you. (Cost 0)`)
 }
 if (number4 == "yes"){
-    let egg = number4 * 0.25;
-    console.log(`${number4} ketchup packets for you. (Cost ${egg})`);
-    console.log(`${answer} burger, ${answer2} drink, ${answer3} Fries, ${number4} Packets of ketchup. (Cost ${egg})`);}
+    let o = number4 * 0.25;
+    console.log(`${number4} ketchup packets for you. (Cost ${o}`);
+    console.log(`${answer} burger, ${answer2} drink, ${answer3} Fries, ${number4} Packets of ketchup. (Cost ${o}`);}
+
